@@ -257,19 +257,7 @@ ORDER BY rfm_total_score DESC;
 6. Use **"Import"** mode (since the dataset is finalized and won't change frequently)
 7. Click **"Load"** to import the data into Power BI
 
-**Data Model:**
-- CustomerID (dimension)
-- R, F, M metrics and scores (measures)
-- RFM total score (measure)
-- RFM segment (dimension for categorization)
-
-8. Create visualizations such as:
-   - Segment distribution (pie/donut chart)
-   - Customer count by segment
-   - Average metrics by segment
-   - Trend analysis of RFM scores
-
-> **Screenshot**: Add a screenshot of the Power BI dashboard with your visualizations
+>![Power BI dashboard](images/9_PowerBI.png)
 
 ---
 
